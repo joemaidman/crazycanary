@@ -5,7 +5,7 @@ var soundOF = true;
 var dayOrNight;
 var themeS;
 var ran = Math.floor(Math.random() * (1 - 0 + 1)) + 0;
-console.log(ran);
+
 if (ran == 0) {
 
  dayOrNight = "day";
